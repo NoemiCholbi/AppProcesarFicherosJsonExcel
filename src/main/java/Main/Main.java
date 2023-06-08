@@ -26,6 +26,8 @@ public class Main {
         PrimeraPantalla pp = new PrimeraPantalla();
         //PantallaSeleccionFichero psf = new PantallaSeleccionFichero();
         pp.setVisible(true);
+        //Comentario super tonto porque es necesario
+
         //String fichero = "EntradaEjemploAPX.xlsx";
 //       File excelFile = new File("C:\\Users\\ncholbic\\Documents\\NetBeansProjects\\GeneradorFicherosXlsMaven\\EntradaEjemploAPX.xlsx");
 //        //FileInputStream inputStream = new FileInputStream(new File(fichero));
